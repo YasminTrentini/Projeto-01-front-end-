@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(245, 179, 196);
+}
+
+h2.cabecalho{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:blueviolet;
+    font-weight: bolder;
+
+}
+p.descricao{
+    font-family: sans-serif;
+    font-size: 20px;
+    color:black;
+    text-align:center;
+}
+img.img1{
+    width: 200px;
+    height: 300px;
+    padding: 150px,120px;
+    display: block;
+    position:relative;
+    left: 200px;
+}
+
+img.port{
+
+    display: block;
+    padding: 50px;
+    margin: 50px;
+    border: black;
+    box-sizing: border-box;
+    position: relative;
+    left:120px;
+}
+img.arrumar{
+    width: 200px;
+    right: 200px;
+    display: block;
+    
+    
+}
+
+div{
+    font-family: monospace;
+    font-size: 15 px;
+    color: brown;
+    text-align: center;
+
+}
+
+h3{
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: crimson;
+    color:black;
+
+}
+p{
+    text-align: center;
+    color:black;
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+
+}
+h2{
+    background-color: crimson;
+    font-family: serif;
+    font-size: 20px;
+    color: black;
+
+}
+h4{
+    font-family: serif;
+    font-size: 20px;
+    color:black;
+
+}
+button.voltar{
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    padding:0px;
+    top: 800px;
+    right: 100px;
+    color:white;
+    background-color: blueviolet;
+}
+label.label1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: violet;
+    text-align: justify;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    left: 50px;
+}
+p.foot{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    left:150px;
+    bottom: 150px;
+    right: 150px;
+
+}
+img.zap{
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    left:70px;
+    bottom: 50px;
+}
+i{
+    font-size: 20px;
+    left: 50px;
+    bottom: 40px;
+    position:fixed;
+}
+div.menu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    background-color: violet;
+    
+    display: block;
+}
